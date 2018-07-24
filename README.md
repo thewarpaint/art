@@ -12,7 +12,7 @@
 - The pink orchard
 - The pink peach tree
 - The harvest
-- The bedroom
+- [The bedroom](https://www.vangoghmuseum.nl/en/collection/s0047V1962)
 - Sunflowers
 - The Zouave
 - Self portrait with bandaged ear
@@ -20,10 +20,11 @@
 - Seascape near Les Saintes-Maries-de-la-Mer
 - Prawns and mussels
 - Quinces, lemons, pears and grapes
-- The yellow house
+- [The yellow house](https://www.vangoghmuseum.nl/en/collection/s0032V1962)
 - Wheatfield with crows
 - Wheatfield under thunderclouds
 - Landscape at twilight
 - The sower
 - [Almond blossoms](https://www.vangoghmuseum.nl/en/collection/s0176V1962)
 - Wheatfield with a reaper
+- [Irises](https://www.vangoghmuseum.nl/en/collection/s0050V1962)
