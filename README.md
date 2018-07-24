@@ -25,5 +25,5 @@
 - Wheatfield under thunderclouds
 - Landscape at twilight
 - The sower
-- Almond blossoms
+- [Almond blossoms](https://www.vangoghmuseum.nl/en/collection/s0176V1962)
 - Wheatfield with a reaper
