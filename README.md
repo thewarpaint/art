@@ -6,7 +6,7 @@
 
 - Self portrait with straw hat
 - The potato eaters
-- Self portrait with grey felt hat
+- [Self portrait with grey felt hat](https://www.vangoghmuseum.nl/en/collection/s0016V1962)
 - Garden with courting couples
 - Field with irises near Arles
 - The pink orchard
