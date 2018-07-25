@@ -13,9 +13,9 @@
 - [The pink peach tree](https://www.vangoghmuseum.nl/en/collection/s0025V1962)
 - [The harvest](https://www.vangoghmuseum.nl/en/collection/s0030V1962)
 - [The bedroom](https://www.vangoghmuseum.nl/en/collection/s0047V1962)
-- Sunflowers
-- The Zouave
-- Self portrait with bandaged ear
+- [Sunflowers](https://www.vangoghmuseum.nl/en/collection/s0031V1962)
+- [The Zouave](https://www.vangoghmuseum.nl/en/collection/s0067V1962)
+- [Self portrait with bandaged ear](https://www.vangoghmuseum.nl/en/collection/F0527)
 - Flowering plum orchard
 - Seascape near Les Saintes-Maries-de-la-Mer
 - Prawns and mussels
