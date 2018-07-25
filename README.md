@@ -1,5 +1,40 @@
 # Art
 
+## Camille Pissarro
+
+### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
+
+- [Haymaking, Éragny](https://www.vangoghmuseum.nl/en/collection/s0520S2010)
+
+
+## Jozef Israëls
+
+### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
+
+- [Peasant Family at the Table](https://www.vangoghmuseum.nl/en/collection/s0383V1987)
+
+
+## Jules Bastien-Lepage
+
+### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
+
+- [The Grape Harvest](https://www.vangoghmuseum.nl/en/collection/s0539S2016)
+
+
+## Léon-Augustin Lhermitte
+
+### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
+
+- [Haymaking](https://www.vangoghmuseum.nl/en/collection/s0424M1991)
+
+
+## Paul Signac
+
+### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
+
+- [The "Ponton de la Félicité" at Asnières (Opus no. 143)](https://www.vangoghmuseum.nl/en/collection/s0540S2016)
+
+
 ## Vincent van Gogh
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
