@@ -5,13 +5,13 @@
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
 
 - Self portrait with straw hat
-- The potato eaters
+- [The potato eaters](https://www.vangoghmuseum.nl/en/collection/s0005V1962)
 - [Self portrait with grey felt hat](https://www.vangoghmuseum.nl/en/collection/s0016V1962)
 - Garden with courting couples
-- Field with irises near Arles
-- The pink orchard
-- The pink peach tree
-- The harvest
+- [Field with irises near Arles](https://www.vangoghmuseum.nl/en/collection/s0037V1962)
+- [The pink orchard](https://www.vangoghmuseum.nl/en/collection/s0026V1962)
+- [The pink peach tree](https://www.vangoghmuseum.nl/en/collection/s0025V1962)
+- [The harvest](https://www.vangoghmuseum.nl/en/collection/s0030V1962)
 - [The bedroom](https://www.vangoghmuseum.nl/en/collection/s0047V1962)
 - Sunflowers
 - The Zouave
