@@ -7,6 +7,21 @@
 - [Haymaking, Éragny](https://www.vangoghmuseum.nl/en/collection/s0520S2010)
 
 
+## Charles François Daubigny
+
+### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
+
+- [October](https://www.vangoghmuseum.nl/en/collection/s0183B1999)
+- [Sunset at Villerville](https://www.vangoghmuseum.nl/en/collection/hwm0091)
+
+
+## Edvard Munch
+
+### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
+
+- [Felix Auerbach](https://www.vangoghmuseum.nl/en/collection/s0541S2017)
+
+
 ## Jozef Israëls
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
@@ -19,6 +34,14 @@
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
 
 - [The Grape Harvest](https://www.vangoghmuseum.nl/en/collection/s0539S2016)
+
+
+## Kees van Dongen
+
+### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
+
+- Mina Tandja
+- [The Blue Dress](https://www.vangoghmuseum.nl/en/collection/s0493S1999)
 
 
 ## Léon-Augustin Lhermitte
