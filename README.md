@@ -58,6 +58,27 @@
 - [The "Ponton de la Félicité" at Asnières (Opus no. 143)](https://www.vangoghmuseum.nl/en/collection/s0540S2016)
 
 
+## Sandro Botticelli
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [Birth of Venus](https://www.uffizi.it/en/artworks/birth-of-venus)
+- [Calumny of Apelles](https://en.wikipedia.org/wiki/Calumny_of_Apelles_(Botticelli))
+- [La Primavera](https://artsandculture.google.com/asset/la-primavera-spring/yQER9P-WIU2k9A)
+- [Madonna of the pomegranate](https://en.wikipedia.org/wiki/Madonna_of_the_Pomegranate)
+
+
+## Tiziano (Titian)
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [Flora](https://artsandculture.google.com/asset/flora/RQF0sAhcSUiepw)
+- [Portrait of Eleonora Gonzaga della Rovere](https://en.wikipedia.org/wiki/Portrait_of_Eleonora_Gonzaga_della_Rovere)
+- [Portrait of Francesco Maria della Rovere](https://en.m.wikipedia.org/wiki/Portrait_of_Francesco_Maria_della_Rovere_(Titian))
+- St. Margaret
+- [Venus of Urbino](https://en.m.wikipedia.org/wiki/Venus_of_Urbino)
+
+
 ## Vincent van Gogh
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
