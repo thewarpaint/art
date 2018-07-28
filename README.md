@@ -6,6 +6,7 @@
 
 - [Judith Beheading Holofernes](https://www.uffizi.it/en/artworks/judith-beheading-holofernes)
 
+
 ## Camille Pissarro
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
@@ -36,6 +37,20 @@
 - [Felix Auerbach](https://www.vangoghmuseum.nl/en/collection/s0541S2017)
 
 
+## Filippo Lippi
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [Coronation of the Virgin](https://artsandculture.google.com/asset/coronation-of-the-virgin/FQHAX2kUpkEteg)
+
+
+## Giuliano Bugiardini
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- Madonna and Child (Madonna of the milk)
+
+
 ## Jozef Israëls
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
@@ -48,6 +63,13 @@
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
 
 - [The Grape Harvest](https://www.vangoghmuseum.nl/en/collection/s0539S2016)
+
+
+## Justus Sustermans
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [Portrait of Galileo Galilei](https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei_-_WGA21972.jpg)
 
 
 ## Kees van Dongen
@@ -78,6 +100,7 @@
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
 
 - [Head of Medusa](https://commons.wikimedia.org/wiki/File:Otto_marseus_van_schrieck_(ambito),_testa_decapitata_di_medusa,_1600-50_ca._01.jpg)
+
 
 ## Paul Signac
 
