@@ -1,5 +1,11 @@
 # Art
 
+## Artemisia Gentileschi
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [Judith Beheading Holofernes](https://www.uffizi.it/en/artworks/judith-beheading-holofernes)
+
 ## Camille Pissarro
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
@@ -67,11 +73,24 @@
 - [Adoration of the Magi](https://www.uffizi.it/en/artworks/adoration-of-the-magi-13fb2318-44ca-4a84-a36d-e41dd12e8181)
 
 
+## Otto Marseus van Schrieck
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [Head of Medusa](https://commons.wikimedia.org/wiki/File:Otto_marseus_van_schrieck_(ambito),_testa_decapitata_di_medusa,_1600-50_ca._01.jpg)
+
 ## Paul Signac
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
 
 - [The "Ponton de la Félicité" at Asnières (Opus no. 143)](https://www.vangoghmuseum.nl/en/collection/s0540S2016)
+
+
+## Rembrandt van Rijn
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- (attributed) [Self-portrait as a young man](https://commons.wikimedia.org/wiki/File:Harmensz_van_Rijn_Rembrandt_-_Ritratto_di_giovane_-_Google_Art_Project.jpg)
 
 
 ## Sandro Botticelli
@@ -82,6 +101,7 @@
 - [Calumny of Apelles](https://en.wikipedia.org/wiki/Calumny_of_Apelles_(Botticelli))
 - [La Primavera](https://artsandculture.google.com/asset/la-primavera-spring/yQER9P-WIU2k9A)
 - [Madonna of the pomegranate](https://en.wikipedia.org/wiki/Madonna_of_the_Pomegranate)
+- [Portrait of a man with a medal of Cosimo the Elder](https://en.wikipedia.org/wiki/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder)
 
 
 ## Tiziano (Titian)
