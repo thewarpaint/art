@@ -7,6 +7,14 @@
 - [Haymaking, Éragny](https://www.vangoghmuseum.nl/en/collection/s0520S2010)
 
 
+## Caravaggio
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [Bacchus](https://www.uffizi.it/en/artworks/bacchus)
+- [Medusa](https://en.wikipedia.org/wiki/Medusa_(Caravaggio))
+
+
 ## Charles François Daubigny
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
@@ -49,6 +57,14 @@
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
 
 - [Haymaking](https://www.vangoghmuseum.nl/en/collection/s0424M1991)
+
+
+## Leonardo da Vinci
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [Annunciation](https://www.uffizi.it/en/artworks/annunciation)
+- [Adoration of the Magi](https://www.uffizi.it/en/artworks/adoration-of-the-magi-13fb2318-44ca-4a84-a36d-e41dd12e8181)
 
 
 ## Paul Signac
