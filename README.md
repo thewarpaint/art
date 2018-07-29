@@ -44,6 +44,20 @@
 - [Coronation of the Virgin](https://artsandculture.google.com/asset/coronation-of-the-virgin/FQHAX2kUpkEteg)
 
 
+## Gerard van Honthorst (Gherardo delle Notti)
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [](https://artsandculture.google.com/asset/adoration-of-the-child/MwEXsJEagGGJdQ)
+- Supper with a lute player
+
+## Guido Reni
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [David with the head of Goliath](https://www.wikiart.org/en/guido-reni/david-with-the-head-of-goliath-1606)
+
+
 ## Giuliano Bugiardini
 
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
@@ -117,6 +131,13 @@
 - [Head of Medusa](https://commons.wikimedia.org/wiki/File:Otto_marseus_van_schrieck_(ambito),_testa_decapitata_di_medusa,_1600-50_ca._01.jpg)
 
 
+## Parmigianino
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [Ritratto virile](https://it.wikipedia.org/wiki/Ritratto_virile_(Parmigianino))
+
+
 ## Paul Signac
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
@@ -147,6 +168,13 @@
 - [La Primavera](https://artsandculture.google.com/asset/la-primavera-spring/yQER9P-WIU2k9A)
 - [Madonna of the pomegranate](https://en.wikipedia.org/wiki/Madonna_of_the_Pomegranate)
 - [Portrait of a man with a medal of Cosimo the Elder](https://en.wikipedia.org/wiki/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder)
+
+
+## Sebastiano del Piombo
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [Death of Adonis](https://artsandculture.google.com/asset/death-of-adonis/JwHDpSxjJK2WJA)
 
 
 ## Tiziano (Titian)
