@@ -113,7 +113,7 @@
 
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
 
-- [Adam_and_Eve](https://en.wikipedia.org/wiki/Adam_and_Eve_(Cranach))
+- [Adam and Eve](https://en.wikipedia.org/wiki/Adam_and_Eve_(Cranach))
 - [Martin Luther](https://commons.wikimedia.org/wiki/File:Lucas_Cranach_(I)_workshop_-_Martin_Luther_(Uffizi).jpg)
 
 
