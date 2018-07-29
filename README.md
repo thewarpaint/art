@@ -131,6 +131,21 @@
 - [Head of Medusa](https://commons.wikimedia.org/wiki/File:Otto_marseus_van_schrieck_(ambito),_testa_decapitata_di_medusa,_1600-50_ca._01.jpg)
 
 
+## Pablo Picasso
+
+### [Museu Picasso](http://www.museupicasso.bcn.cat/en/)
+
+
+- Blanquita Suárez
+- El padre del artista con la revista Gil Blas bajo el brazo
+- [Jacqueline](http://www.bcn.cat/museupicasso/en/exhibitions/picasso-portraits/personatge/jacqueline-roque/)
+- [Las Meninas](http://www.bcn.cat/museupicasso/en/collection/mpb70-433.html)
+- Mountains of Malaga
+- [Mujer con mantilla (La Salchichona)](https://curiator.com/art/pablo-picasso/mujer-con-mantilla-la-salchichona)
+- Quatre Cats menu
+- [Science and charity](http://www.bcn.cat/museupicasso/es/coleccion/mpb110-046.html)
+
+
 ## Parmigianino
 
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
