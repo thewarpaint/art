@@ -48,7 +48,7 @@
 
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
 
-- [](https://artsandculture.google.com/asset/adoration-of-the-child/MwEXsJEagGGJdQ)
+- [Adoration of the Child](https://artsandculture.google.com/asset/adoration-of-the-child/MwEXsJEagGGJdQ)
 - Supper with a lute player
 
 ## Guido Reni
