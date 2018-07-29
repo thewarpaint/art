@@ -95,6 +95,21 @@
 - [Adoration of the Magi](https://www.uffizi.it/en/artworks/adoration-of-the-magi-13fb2318-44ca-4a84-a36d-e41dd12e8181)
 
 
+## Lucas Cranach the Elder
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [Adam_and_Eve](https://en.wikipedia.org/wiki/Adam_and_Eve_(Cranach))
+- [Martin Luther](https://commons.wikimedia.org/wiki/File:Lucas_Cranach_(I)_workshop_-_Martin_Luther_(Uffizi).jpg)
+
+
+## Michelangelo Buonarroti
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [The Holy Family (known as the "Doni Tondo")](https://www.uffizi.it/en/artworks/holy-family-known-as-the-doni-tondo)
+
+
 ## Otto Marseus van Schrieck
 
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
@@ -107,6 +122,13 @@
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
 
 - [The "Ponton de la Félicité" at Asnières (Opus no. 143)](https://www.vangoghmuseum.nl/en/collection/s0540S2016)
+
+
+## Raffaello Sanzio
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- [Self-portrait](https://en.wikipedia.org/wiki/Self-portrait_(Raphael))
 
 
 ## Rembrandt van Rijn
