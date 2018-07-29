@@ -133,6 +133,16 @@
 
 ## Pablo Picasso
 
+### [Museo Reina Sofía](http://www.museoreinasofia.es/)
+
+- Cabeza de toro con estudios de ojos, preparatorio
+- Femme au chapeau assise dans un fauteuil
+- [Figures au bord de la mer I](http://www.museoreinasofia.es/en/collection/artwork/figures-au-bord-mer-i-figures-sea-i)
+- [Guernica](http://www.museoreinasofia.es/en/collection/artwork/guernica)
+- [Instruments de musique sur une table](http://www.museoreinasofia.es/coleccion/obra/instruments-musique-sur-une-table-instrumentos-musica-sobre-mesa)
+- [La nageuse](http://www.museoreinasofia.es/en/collection/artwork/nageuse-swimmer)
+- [Trois têtes de mouton](http://www.museoreinasofia.es/en/collection/artwork/trois-tetes-mouton-three-lambs-heads)
+
 ### [Museu Picasso](http://www.museupicasso.bcn.cat/en/)
 
 - Blanquita Suárez
