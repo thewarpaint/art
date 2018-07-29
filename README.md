@@ -135,13 +135,17 @@
 
 ### [Museu Picasso](http://www.museupicasso.bcn.cat/en/)
 
-
 - Blanquita Suárez
 - El padre del artista con la revista Gil Blas bajo el brazo
 - [Jacqueline](http://www.bcn.cat/museupicasso/en/exhibitions/picasso-portraits/personatge/jacqueline-roque/)
 - [Las Meninas](http://www.bcn.cat/museupicasso/en/collection/mpb70-433.html)
 - Mountains of Malaga
 - [Mujer con mantilla (La Salchichona)](https://curiator.com/art/pablo-picasso/mujer-con-mantilla-la-salchichona)
+- Mujer con sombrero (Dora Maar)
+- [Portrait of Nusch Éluard](http://www.bcn.cat/museupicasso/es/exposiciones/picasso-retratos/personatge/nusch-eluard/)
+- [Portrait of the father of the artist](http://www.blogmuseupicassobcn.org/2015/01/cambios-en-las-salas-de-la-coleccion-del-museu-picasso-en-enero/?lang=es)
+- [Retrato de Jacqueline con pañuelo negro](http://www.bcn.cat/museupicasso/es/exposiciones/picasso-retratos/personatge/jacqueline-roque/)
+- Retrato de Olga con cuello de pieles
 - Quatre Cats menu
 - [Science and charity](http://www.bcn.cat/museupicasso/es/coleccion/mpb110-046.html)
 
