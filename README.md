@@ -22,6 +22,13 @@
 - [Medusa](https://en.wikipedia.org/wiki/Medusa_(Caravaggio))
 
 
+## Carl Blechen
+
+### [Hamburger Kunsthalle](https://www.hamburger-kunsthalle.de/en)
+
+- [Stormy sea with lighthouse (Stürmische See mit Leuchtturm)](https://commons.wikimedia.org/wiki/File:Carl_Blechen_-_St%C3%BCrmische_See_mit_Leuchtturm.jpg)
+
+
 ## Charles François Daubigny
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
@@ -31,6 +38,10 @@
 
 
 ## Edvard Munch
+
+### [Hamburger Kunsthalle](https://www.hamburger-kunsthalle.de/en)
+
+- [Madonna](https://www.hamburger-kunsthalle.de/sammlung-online/edvard-munch/madonna#)
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
 
@@ -116,6 +127,12 @@
 - [Adam and Eve](https://en.wikipedia.org/wiki/Adam_and_Eve_(Cranach))
 - [Martin Luther](https://commons.wikimedia.org/wiki/File:Lucas_Cranach_(I)_workshop_-_Martin_Luther_(Uffizi).jpg)
 
+
+## Max Liebermann
+
+### [Hamburger Kunsthalle](https://www.hamburger-kunsthalle.de/en)
+
+- [The net menders (Die Netzflickerinnen)](https://www.hamburger-kunsthalle.de/sammlung-online/max-liebermann/die-netzflickerinnen)
 
 ## Michelangelo Buonarroti
 
