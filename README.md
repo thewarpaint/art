@@ -2,12 +2,14 @@
 
 - [Annibale Carracci](#annibale-carracci)
 - [Artemisia Gentileschi](#artemisia-gentileschi)
+- [Bartolomeo Cavarozzi](#bartolomeo-cavarozzi)
 - [Camille Pissarro](#camille-pissarro)
 - [Caravaggio](#caravaggio)
 - [Carl Blechen](#carl-blechen)
 - [Caspar David Friedrich](#caspar-david-friedrich)
 - [Charles François Daubigny](#charles-françois-daubigny)
 - [Edvard Munch](#edvard-munch)
+- [El Greco](#el-greco)
 - [Filippo Lippi](#filippo-lippi)
 - [Gerard van Honthorst (Gherardo delle Notti)](#gerard-van-honthorst-gherardo-delle-notti)
 - [Guido Reni](#guido-reni)
@@ -49,6 +51,13 @@
 - [Judith Beheading Holofernes](https://www.uffizi.it/en/artworks/judith-beheading-holofernes)
 
 
+## Bartolomeo Cavarozzi
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [The Holy Family with Saint Catherine](https://www.museodelprado.es/en/the-collection/art-work/the-holy-family-with-saint-catherine/d5e1fede-a737-4944-9f19-bb6efde8d6a7)
+
+
 ## Camille Pissarro
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
@@ -62,6 +71,10 @@
 
 - [Bacchus](https://www.uffizi.it/en/artworks/bacchus)
 - [Medusa](https://en.wikipedia.org/wiki/Medusa_(Caravaggio))
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [David with the head of Goliath](https://www.museodelprado.es/en/the-collection/art-work/david-with-the-head-of-goliath/c3895900-73d4-4257-97fb-240e3aaf0402)
 
 
 ## Carl Blechen
@@ -97,6 +110,13 @@
 - [Felix Auerbach](https://www.vangoghmuseum.nl/en/collection/s0541S2017)
 
 
+## El Greco
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [The Nobleman with his Hand on his Chest](https://www.museodelprado.es/en/the-collection/art-work/the-nobleman-with-his-hand-on-his-chest/9cb73bdf-66e8-4826-a79c-5de2b15a1da6)
+
+
 ## Filippo Lippi
 
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
@@ -117,6 +137,10 @@
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
 
 - [David with the head of Goliath](https://www.wikiart.org/en/guido-reni/david-with-the-head-of-goliath-1606)
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [Hippomenes and Atalanta](https://www.museodelprado.es/en/the-collection/art-work/hippomenes-and-atalanta/b136eb8b-c3f1-4787-935b-0003ed114220)
 
 
 ## Giuliano Bugiardini
