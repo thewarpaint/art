@@ -5,12 +5,14 @@
 - [Camille Pissarro](#camille-pissarro)
 - [Caravaggio](#caravaggio)
 - [Carl Blechen](#carl-blechen)
+- [Caspar David Friedrich](#caspar-david-friedrich)
 - [Charles François Daubigny](#charles-françois-daubigny)
 - [Edvard Munch](#edvard-munch)
 - [Filippo Lippi](#filippo-lippi)
 - [Gerard van Honthorst (Gherardo delle Notti)](#gerard-van-honthorst-gherardo-delle-notti)
 - [Guido Reni](#guido-reni)
 - [Giuliano Bugiardini](#giuliano-bugiardini)
+- [Johann Christian Dahl](#johann-christian-dahl)
 - [Jozef Israëls](#jozef-israëls)
 - [Jules Bastien-Lepage](#jules-bastien-lepage)
 - [Justus Sustermans](#justus-sustermans)
@@ -69,6 +71,13 @@
 - [Stormy sea with lighthouse (Stürmische See mit Leuchtturm)](https://commons.wikimedia.org/wiki/File:Carl_Blechen_-_St%C3%BCrmische_See_mit_Leuchtturm.jpg)
 
 
+## Caspar David Friedrich
+
+### [Hamburger Kunsthalle](https://www.hamburger-kunsthalle.de/en)
+
+- [Wanderer above the Sea of Fog](https://www.hamburger-kunsthalle.de/sammlung-online/caspar-david-friedrich/wanderer-ueber-dem-nebelmeer)
+
+
 ## Charles François Daubigny
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
@@ -102,6 +111,7 @@
 - [Adoration of the Child](https://artsandculture.google.com/asset/adoration-of-the-child/MwEXsJEagGGJdQ)
 - Supper with a lute player
 
+
 ## Guido Reni
 
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
@@ -114,6 +124,13 @@
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
 
 - Madonna and Child (Madonna of the milk)
+
+
+## Johann Christian Dahl
+
+### [Hamburger Kunsthalle](https://www.hamburger-kunsthalle.de/en)
+
+- [Shipwreck on the coast of Norway](https://artsandculture.google.com/asset/shipwreck-on-the-coast-of-norway/PgFjkyl9I37iVQ)
 
 
 ## Jozef Israëls
