@@ -1,5 +1,12 @@
 # Art
 
+## Annibale Carracci
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [Venus, Adonis and Cupid](https://www.museodelprado.es/en/the-collection/art-work/venus-adonis-and-cupid/21c3ad63-0b69-4c34-8849-054b643e2af9)
+
+
 ## Artemisia Gentileschi
 
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
@@ -134,12 +141,19 @@
 
 - [The net menders (Die Netzflickerinnen)](https://www.hamburger-kunsthalle.de/sammlung-online/max-liebermann/die-netzflickerinnen)
 
+
 ## Michelangelo Buonarroti
 
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
 
 - [The Holy Family (known as the "Doni Tondo")](https://www.uffizi.it/en/artworks/holy-family-known-as-the-doni-tondo)
 
+
+## Orazio Lomi de Gentileschi
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [The Finding of Moses, or Moses Rescued from the Nile](https://www.museodelprado.es/en/the-collection/art-work/the-finding-of-moses/65662492-7a51-4e0f-a51e-98097501ea37)
 
 ## Otto Marseus van Schrieck
 
@@ -190,6 +204,15 @@
 
 - [The "Ponton de la Félicité" at Asnières (Opus no. 143)](https://www.vangoghmuseum.nl/en/collection/s0540S2016)
 
+
+## Pieter Paul Rubens
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [Adam and Eve](https://www.museodelprado.es/en/the-collection/art-work/adam-and-eve/de0047db-6f8b-4761-a55b-ad41e959cca2)
+- [Diana and Callisto](https://www.museodelprado.es/en/the-collection/art-work/diana-and-callisto/3d8e9266-14b6-4d66-ac5e-9ded947911cf)
+- [Saturn devouring a Son](https://www.museodelprado.es/en/the-collection/art-work/saturn-devouring-a-son/d022fed3-6069-4786-b59f-4399a2d74e50)
+- [The Three Graces](https://www.museodelprado.es/en/the-collection/art-work/the-three-graces/145eadd9-0b54-4b2d-affe-09af370b6932)
 
 ## Raffaello Sanzio
 
