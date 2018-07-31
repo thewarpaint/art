@@ -8,7 +8,7 @@
 - [Charles François Daubigny](#charles-françois-daubigny)
 - [Edvard Munch](#edvard-munch)
 - [Filippo Lippi](#filippo-lippi)
-- [Gerard van Honthorst (Gherardo delle Notti)](gerard-van-honthorst-gherardo-delle-notti)
+- [Gerard van Honthorst (Gherardo delle Notti)](#gerard-van-honthorst-gherardo-delle-notti)
 - [Guido Reni](#guido-reni)
 - [Giuliano Bugiardini](#giuliano-bugiardini)
 - [Jozef Israëls](#jozef-israëls)
