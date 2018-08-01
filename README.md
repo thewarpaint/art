@@ -11,11 +11,13 @@
 - [Edvard Munch](#edvard-munch)
 - [El Greco](#el-greco)
 - [Filippo Lippi](#filippo-lippi)
+- [Francesco Furini](#francesco-furini)
 - [Gerard van Honthorst (Gherardo delle Notti)](#gerard-van-honthorst-gherardo-delle-notti)
 - [Guido Reni](#guido-reni)
 - [Giuliano Bugiardini](#giuliano-bugiardini)
 - [Johann Christian Dahl](#johann-christian-dahl)
 - [Jozef Israëls](#jozef-israëls)
+- [Juan Bautista Maino](#juan-bautista-maino)
 - [Jules Bastien-Lepage](#jules-bastien-lepage)
 - [Justus Sustermans](#justus-sustermans)
 - [Kees van Dongen](#kees-van-dongen)
@@ -124,6 +126,13 @@
 - [Coronation of the Virgin](https://artsandculture.google.com/asset/coronation-of-the-virgin/FQHAX2kUpkEteg)
 
 
+## Francesco Furini
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [Lot and his Daughters](https://www.museodelprado.es/en/the-collection/art-work/lot-and-his-daughters/703e2792-decb-4f67-9085-0b318dd9a0eb)
+
+
 ## Gerard van Honthorst (Gherardo delle Notti)
 
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
@@ -162,6 +171,13 @@
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
 
 - [Peasant Family at the Table](https://www.vangoghmuseum.nl/en/collection/s0383V1987)
+
+
+## Juan Bautista Maino
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [The Adoration of the Magi](https://www.museodelprado.es/en/the-collection/art-work/the-adoration-of-the-magi/3f1f4d63-0476-4ac0-904f-776713defe78)
 
 
 ## Jules Bastien-Lepage
