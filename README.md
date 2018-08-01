@@ -8,6 +8,7 @@
 - [Carl Blechen](#carl-blechen)
 - [Caspar David Friedrich](#caspar-david-friedrich)
 - [Charles François Daubigny](#charles-françois-daubigny)
+- [Claude Monet](#claude-monet)
 - [Edvard Munch](#edvard-munch)
 - [El Greco](#el-greco)
 - [Filippo Lippi](#filippo-lippi)
@@ -99,6 +100,14 @@
 
 - [October](https://www.vangoghmuseum.nl/en/collection/s0183B1999)
 - [Sunset at Villerville](https://www.vangoghmuseum.nl/en/collection/hwm0091)
+
+
+## Claude Monet
+
+### [Asian Art Museum](http://www.asianart.org)
+
+- [The Water Lily Pond](https://www.mfa.org/collections/object/the-water-lily-pond-33697) [🖼️](https://www.mfa.org/collections/object/download/50928)
+   - [Loan from the Museum of Fine Arts, Boston](http://www.asianart.org/press_releases/41)
 
 
 ## Edvard Munch
@@ -348,6 +357,11 @@
 
 
 ## Vincent van Gogh
+
+### [Asian Art Museum](http://www.asianart.org)
+
+- [Postman Joseph Roulin](https://www.mfa.org/collections/object/postman-joseph-roulin-32542) [🖼️](https://www.mfa.org/collections/object/download/49935)
+   - [Loan from the Museum of Fine Arts, Boston](http://www.asianart.org/press_releases/41)
 
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
 
