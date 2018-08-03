@@ -2,6 +2,7 @@
 
 - [Annibale Carracci](#annibale-carracci)
 - [Artemisia Gentileschi](#artemisia-gentileschi)
+- [Bartolomé E. Murillo](#bartolome-e-murillo)
 - [Bartolomeo Cavarozzi](#bartolomeo-cavarozzi)
 - [Camille Pissarro](#camille-pissarro)
 - [Caravaggio](#caravaggio)
@@ -9,14 +10,17 @@
 - [Caspar David Friedrich](#caspar-david-friedrich)
 - [Charles François Daubigny](#charles-françois-daubigny)
 - [Claude Monet](#claude-monet)
+- [Diego Velázquez](#diego-velazquez)
 - [Edvard Munch](#edvard-munch)
 - [El Greco](#el-greco)
 - [Filippo Lippi](#filippo-lippi)
 - [Francesco Furini](#francesco-furini)
+- [Francisco de Zurbarán](#francisco-de-zurbaran)
 - [Gerard van Honthorst (Gherardo delle Notti)](#gerard-van-honthorst-gherardo-delle-notti)
 - [Guido Reni](#guido-reni)
 - [Giuliano Bugiardini](#giuliano-bugiardini)
 - [Johann Christian Dahl](#johann-christian-dahl)
+- [José de Ribera](#jose-de-ribera)
 - [Jozef Israëls](#jozef-israëls)
 - [Juan Bautista Maino](#juan-bautista-maino)
 - [Jules Bastien-Lepage](#jules-bastien-lepage)
@@ -52,6 +56,14 @@
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
 
 - [Judith Beheading Holofernes](https://www.uffizi.it/en/artworks/judith-beheading-holofernes)
+
+
+## Bartolomé E. Murillo
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [The Foundation of Santa Maria Maggiore in Rome (The Patrician's Dream)](https://www.museodelprado.es/en/the-collection/art-work/the-foundation-of-santa-maria-maggiore-in-rome/61495770-ee6c-4983-ae38-2f2a87e002ce) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/61/6149/61495770-ee6c-4983-ae38-2f2a87e002ce/eac6f153-95f2-4870-8fd5-5bae1ebc6fa8.jpg)
+- [The Immaculate Conception of Los Venerables](https://www.museodelprado.es/en/the-collection/art-work/the-immaculate-conception-of-los-venerables/76179d81-beaf-4f9e-9a05-ef92340a00d1) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/76/7617/76179d81-beaf-4f9e-9a05-ef92340a00d1/494c50d0-e4f1-4616-8675-704ec8e9edc8.jpg)
 
 
 ## Bartolomeo Cavarozzi
@@ -110,6 +122,13 @@
    - [Loan from the Museum of Fine Arts, Boston](http://www.asianart.org/press_releases/41)
 
 
+## Diego Velázquez
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [Las Meninas](https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/9f/9fdc/9fdc7800-9ade-48b0-ab8b-edee94ea877f/41866afd-6396-45e7-bd26-944263cf92f7.jpg)
+
+
 ## Edvard Munch
 
 ### [Hamburger Kunsthalle](https://www.hamburger-kunsthalle.de/en)
@@ -140,6 +159,13 @@
 ### [Museo del Prado](https://www.museodelprado.es/en/)
 
 - [Lot and his Daughters](https://www.museodelprado.es/en/the-collection/art-work/lot-and-his-daughters/703e2792-decb-4f67-9085-0b318dd9a0eb)
+
+
+## Francisco de Zurbarán
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [Saint Elisabeth of Portugal](https://www.museodelprado.es/en/the-collection/art-work/saint-elisabeth-of-portugal/70f72f87-85dd-4923-8d05-e4d7940f8c0b) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/70/70f7/70f72f87-85dd-4923-8d05-e4d7940f8c0b/bec96668-fe32-484e-8580-d035fbe8c51d.jpg)
 
 
 ## Gerard van Honthorst (Gherardo delle Notti)
@@ -173,6 +199,13 @@
 ### [Hamburger Kunsthalle](https://www.hamburger-kunsthalle.de/en)
 
 - [Shipwreck on the coast of Norway](https://artsandculture.google.com/asset/shipwreck-on-the-coast-of-norway/PgFjkyl9I37iVQ)
+
+
+## José de Ribera
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [The Sense of Touch](https://www.museodelprado.es/en/the-collection/art-work/the-sense-of-touch/ef9c0082-9fe9-4d80-96ea-f5dcb2a88b1c) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/ef/ef9c/ef9c0082-9fe9-4d80-96ea-f5dcb2a88b1c/df98602d-0ba5-46cb-ae1a-84d5c8b04c05.jpg)
 
 
 ## Jozef Israëls
