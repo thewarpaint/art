@@ -21,6 +21,7 @@ The images provided in the download links (🖼️) are usually licensed for per
 - [El Greco](#el-greco)
 - [Filippo Lippi](#filippo-lippi)
 - [Francesco Furini](#francesco-furini)
+- [Francisco de Goya](#francisco-de-goya)
 - [Francisco de Zurbarán](#francisco-de-zurbarán)
 - [Gerard van Honthorst (Gherardo delle Notti)](#gerard-van-honthorst-gherardo-delle-notti)
 - [Guido Reni](#guido-reni)
@@ -165,6 +166,19 @@ The images provided in the download links (🖼️) are usually licensed for per
 ### [Museo del Prado](https://www.museodelprado.es/en/)
 
 - [Lot and his Daughters](https://www.museodelprado.es/en/the-collection/art-work/lot-and-his-daughters/703e2792-decb-4f67-9085-0b318dd9a0eb)
+
+
+## Francisco de Goya
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [Carlos IV on horseback](https://www.museodelprado.es/en/the-collection/art-work/carlos-iv-on-horseback/d0bdce6c-aa49-4c54-8c55-82071fb9a3fe) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/d0/d0bd/d0bdce6c-aa49-4c54-8c55-82071fb9a3fe/6fe36f9b-dc20-4d4d-a398-d42b9e55a849.jpg)
+- [Saturn](https://www.museodelprado.es/en/the-collection/art-work/saturn/18110a75-b0e7-430c-bc73-2a4d55893bd6) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/18/1811/18110a75-b0e7-430c-bc73-2a4d55893bd6/5ffc0d04-161c-422a-a519-d901befd7910.jpg)
+- [The 3rd of May 1808 in Madrid (The Executions)](https://www.museodelprado.es/en/the-collection/art-work/the-3rd-of-may-1808-in-madrid-or-the-executions/5e177409-2993-4240-97fb-847a02c6496c) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/5e/5e17/5e177409-2993-4240-97fb-847a02c6496c/d8720f5f-4ef4-484c-806b-58fb03df8696.jpg)
+- [The Clothed Maja](https://www.museodelprado.es/en/the-collection/art-work/the-clothed-maja/a3121efc-6924-454c-8a9f-e4320f26d3d0) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/a3/a312/a3121efc-6924-454c-8a9f-e4320f26d3d0/c0281089-c084-4ee6-8424-e88c2c769340.jpg)
+- [The family of Carlos IV](https://www.museodelprado.es/en/the-collection/art-work/the-family-of-carlos-iv/f47898fc-aa1c-48f6-a779-71759e417e74) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/f4/f478/f47898fc-aa1c-48f6-a779-71759e417e74/afab413b-7667-4276-b665-70a189b39fc8.jpg)
+- [The Naked Maja](https://www.museodelprado.es/en/the-collection/art-work/the-naked-maja/65953b93-323e-48fe-98cb-9d4b15852b18) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/65/6595/65953b93-323e-48fe-98cb-9d4b15852b18/d706f075-f599-4797-b8d6-e832fd7c45f8.jpg)
+- [Two Old Men eating](https://www.museodelprado.es/en/the-collection/art-work/two-old-men-eating/67eecb35-18d3-4377-9482-739713680b42) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/67/67ee/67eecb35-18d3-4377-9482-739713680b42/b75de566-d7fe-423c-b01f-e34cfdbf076b.jpg)
 
 
 ## Francisco de Zurbarán
