@@ -1,5 +1,11 @@
 # Paintings
 
+## Disclaimer
+
+The images provided in the download links (🖼️) are usually licensed for personal, non-commercial purposes only. Please check the specific terms of use for every museum.
+
+## Artists
+
 - [Annibale Carracci](#annibale-carracci)
 - [Artemisia Gentileschi](#artemisia-gentileschi)
 - [Bartolomé E. Murillo](#bartolome-e-murillo)
