@@ -19,6 +19,7 @@ The images provided in the download links (🖼️) are usually licensed for per
 - [Diego Velázquez](#diego-velázquez)
 - [Edvard Munch](#edvard-munch)
 - [El Greco](#el-greco)
+- [Eugène Delacroix](#eugène-delacroix)
 - [Filippo Lippi](#filippo-lippi)
 - [Francesco Furini](#francesco-furini)
 - [Francisco de Goya](#francisco-de-goya)
@@ -26,6 +27,7 @@ The images provided in the download links (🖼️) are usually licensed for per
 - [Gerard van Honthorst (Gherardo delle Notti)](#gerard-van-honthorst-gherardo-delle-notti)
 - [Guido Reni](#guido-reni)
 - [Giuliano Bugiardini](#giuliano-bugiardini)
+- [Hyacinthe Rigaud](#hyacinthe-rigaud)
 - [Johann Christian Dahl](#johann-christian-dahl)
 - [José de Ribera](#josé-de-ribera)
 - [Jozef Israëls](#jozef-israëls)
@@ -154,6 +156,13 @@ The images provided in the download links (🖼️) are usually licensed for per
 - [The Nobleman with his Hand on his Chest](https://www.museodelprado.es/en/the-collection/art-work/the-nobleman-with-his-hand-on-his-chest/9cb73bdf-66e8-4826-a79c-5de2b15a1da6)
 
 
+## Eugène Delacroix
+
+### [Musée du Louvre](https://www.louvre.fr/)
+
+- [Liberty leading the people](https://www.louvre.fr/en/oeuvre-notices/july-28-liberty-leading-people)
+
+
 ## Filippo Lippi
 
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
@@ -212,6 +221,13 @@ The images provided in the download links (🖼️) are usually licensed for per
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
 
 - Madonna and Child (Madonna of the milk)
+
+
+## Hyacinthe Rigaud
+
+### [Musée du Louvre](https://www.louvre.fr/)
+
+- [Portrait of Louis XV](https://www.louvre.fr/en/oeuvre-notices/louis-xiv-1638-1715)
 
 
 ## Johann Christian Dahl
@@ -277,6 +293,10 @@ The images provided in the download links (🖼️) are usually licensed for per
 
 - [Annunciation](https://www.uffizi.it/en/artworks/annunciation)
 - [Adoration of the Magi](https://www.uffizi.it/en/artworks/adoration-of-the-magi-13fb2318-44ca-4a84-a36d-e41dd12e8181)
+
+### [Musée du Louvre](https://www.louvre.fr/)
+
+- [Portrait of Lisa Gherardini, wife of Francesco del Giocondo (Mona Lisa)](https://www.louvre.fr/en/oeuvre-notices/mona-lisa-portrait-lisa-gherardini-wife-francesco-del-giocondo)
 
 
 ## Lucas Cranach the Elder
