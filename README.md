@@ -17,6 +17,7 @@ The images provided in the download links (🖼️) are usually licensed for per
 - [Charles François Daubigny](#charles-françois-daubigny)
 - [Claude Monet](#claude-monet)
 - [Diego Velázquez](#diego-velázquez)
+- [Edmund Charles Tarbell](#edmund-charles-tarbell)
 - [Edvard Munch](#edvard-munch)
 - [El Greco](#el-greco)
 - [Eugène Delacroix](#eugène-delacroix)
@@ -27,6 +28,7 @@ The images provided in the download links (🖼️) are usually licensed for per
 - [Gerard van Honthorst (Gherardo delle Notti)](#gerard-van-honthorst-gherardo-delle-notti)
 - [Guido Reni](#guido-reni)
 - [Giuliano Bugiardini](#giuliano-bugiardini)
+- [Hermann Dudley Murphy](#hermann-dudley-murphy)
 - [Hyacinthe Rigaud](#hyacinthe-rigaud)
 - [Johann Christian Dahl](#johann-christian-dahl)
 - [José de Ribera](#josé-de-ribera)
@@ -84,6 +86,11 @@ The images provided in the download links (🖼️) are usually licensed for per
 
 ## Camille Pissarro
 
+### [Asian Art Museum](http://www.asianart.org)
+
+- [Morning Sunlight on the Snow, Éragny-sur-Epte](https://www.mfa.org/collections/object/morning-sunlight-on-the-snow-%C3%A9ragny-sur-epte-31810) [🖼️](https://www.mfa.org/download/file/fid/274260)
+   - [Loan from the Museum of Fine Arts, Boston](http://www.asianart.org/press_releases/41)
+
 ### [Van Gogh Museum](https://www.vangoghmuseum.nl/)
 
 - [Haymaking, Éragny](https://www.vangoghmuseum.nl/en/collection/s0520S2010)
@@ -127,6 +134,7 @@ The images provided in the download links (🖼️) are usually licensed for per
 
 ### [Asian Art Museum](http://www.asianart.org)
 
+- [Camille Monet and a Child in the Artist's Garden in Argenteuil](https://www.mfa.org/collections/object/camille-monet-and-a-child-in-the-artists-garden-in-argenteuil-34242) [🖼️](https://www.mfa.org/download/file/fid/118698)
 - [The Water Lily Pond](https://www.mfa.org/collections/object/the-water-lily-pond-33697) [🖼️](https://www.mfa.org/collections/object/download/50928)
    - [Loan from the Museum of Fine Arts, Boston](http://www.asianart.org/press_releases/41)
 
@@ -136,6 +144,14 @@ The images provided in the download links (🖼️) are usually licensed for per
 ### [Museo del Prado](https://www.museodelprado.es/en/)
 
 - [Las Meninas](https://www.museodelprado.es/en/the-collection/art-work/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/9f/9fdc/9fdc7800-9ade-48b0-ab8b-edee94ea877f/41866afd-6396-45e7-bd26-944263cf92f7.jpg)
+
+
+## Edmund Charles Tarbell
+
+### [Asian Art Museum](http://www.asianart.org)
+
+- [Reverie (Katharine Finn)](https://www.mfa.org/collections/object/reverie-katharine-finn-32466) [🖼️](https://www.mfa.org/download/file/fid/224439)
+   - [Loan from the Museum of Fine Arts, Boston](http://www.asianart.org/press_releases/41)
 
 
 ## Edvard Munch
@@ -221,6 +237,14 @@ The images provided in the download links (🖼️) are usually licensed for per
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
 
 - Madonna and Child (Madonna of the milk)
+
+
+## Hermann Dudley Murphy
+
+### [Asian Art Museum](http://www.asianart.org)
+
+- [https://www.mfa.org/collections/object/the-adriatic-sea-32941](https://www.mfa.org/collections/object/the-adriatic-sea-32941) [🖼️](https://www.mfa.org/download/file/fid/568311)
+   - [Loan from the Museum of Fine Arts, Boston](http://www.asianart.org/press_releases/41)
 
 
 ## Hyacinthe Rigaud
