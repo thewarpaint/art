@@ -243,7 +243,7 @@ The images provided in the download links (🖼️) are usually licensed for per
 
 ### [Asian Art Museum](http://www.asianart.org)
 
-- [https://www.mfa.org/collections/object/the-adriatic-sea-32941](https://www.mfa.org/collections/object/the-adriatic-sea-32941) [🖼️](https://www.mfa.org/download/file/fid/568311)
+- [The Adriatic Sea](https://www.mfa.org/collections/object/the-adriatic-sea-32941) [🖼️](https://www.mfa.org/download/file/fid/568311)
    - [Loan from the Museum of Fine Arts, Boston](http://www.asianart.org/press_releases/41)
 
 
