@@ -251,7 +251,7 @@ The images provided in the download links (🖼️) are usually licensed for per
 
 ### [Musée du Louvre](https://www.louvre.fr/)
 
-- [Portrait of Louis XV](https://www.louvre.fr/en/oeuvre-notices/louis-xiv-1638-1715)
+- [Portrait of Louis XIV](https://www.louvre.fr/en/oeuvre-notices/louis-xiv-1638-1715)
 
 
 ## Johann Christian Dahl
