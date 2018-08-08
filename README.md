@@ -4,8 +4,10 @@
 
 The images provided in the download links (🖼️) are usually licensed for personal, non-commercial purposes only. Please check the specific terms of use for every museum.
 
+
 ## Artists
 
+- [Alberto Durero](#alberto-durero)
 - [Annibale Carracci](#annibale-carracci)
 - [Artemisia Gentileschi](#artemisia-gentileschi)
 - [Bartolomé E. Murillo](#bartolomé-e-murillo)
@@ -54,6 +56,15 @@ The images provided in the download links (🖼️) are usually licensed for per
 - [Sebastiano del Piombo](#sebastiano-del-piombo)
 - [Tiziano (Titian)](#tiziano-titian)
 - [Vincent van Gogh](#vincent-van-gogh)
+
+
+## Alberto Durero
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [Adam](https://www.museodelprado.es/en/the-collection/art-work/adam/25804757-ea25-4aba-903b-eaced6859754) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/25/2580/25804757-ea25-4aba-903b-eaced6859754/2ad6fc97-122e-4651-97a5-ae0e90e04a12.jpg)
+- [Eve](https://www.museodelprado.es/en/the-collection/art-work/eve/930c0fdf-fcfc-47df-b216-e375f5719084) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/93/930c/930c0fdf-fcfc-47df-b216-e375f5719084/2942b269-daf4-4e92-a0ce-d29942a5aac8.jpg)
+
 
 ## Annibale Carracci
 
@@ -253,6 +264,10 @@ The images provided in the download links (🖼️) are usually licensed for per
 
 - [Portrait of Louis XIV](https://www.louvre.fr/en/oeuvre-notices/louis-xiv-1638-1715)
 
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [Louis XIV](https://www.museodelprado.es/en/the-collection/art-work/louis-xiv/eb9b8bf3-4e26-4539-aff5-e368222c3f98) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/eb/eb9b/eb9b8bf3-4e26-4539-aff5-e368222c3f98/ad760d28-efc9-44ad-816c-98c197994faf.jpg)
+
 
 ## Johann Christian Dahl
 
@@ -321,6 +336,10 @@ The images provided in the download links (🖼️) are usually licensed for per
 ### [Musée du Louvre](https://www.louvre.fr/)
 
 - [Portrait of Lisa Gherardini, wife of Francesco del Giocondo (Mona Lisa)](https://www.louvre.fr/en/oeuvre-notices/mona-lisa-portrait-lisa-gherardini-wife-francesco-del-giocondo)
+
+### [Museo del Prado](https://www.museodelprado.es/en/)
+
+- [The Mona Lisa (Workshop of Leonardo da Vinci)](https://www.museodelprado.es/en/the-collection/art-work/the-mona-lisa/80c9b279-5c80-4d29-b72d-b19cdca6601c) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/80/80c9/80c9b279-5c80-4d29-b72d-b19cdca6601c/dc7315c9-de08-4c6b-8b2a-e854e0217015.jpg)
 
 
 ## Lucas Cranach the Elder
