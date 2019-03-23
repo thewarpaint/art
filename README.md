@@ -27,9 +27,11 @@ The images provided in the download links (🖼️) are usually licensed for per
 - [Francesco Furini](#francesco-furini)
 - [Francisco de Goya](#francisco-de-goya)
 - [Francisco de Zurbarán](#francisco-de-zurbarán)
+- [Fritz von Uhde](#fritz-von-uhde)
 - [Gerard van Honthorst (Gherardo delle Notti)](#gerard-van-honthorst-gherardo-delle-notti)
-- [Guido Reni](#guido-reni)
 - [Giuliano Bugiardini](#giuliano-bugiardini)
+- [Guido Reni](#guido-reni)
+- [Gustav Spangenberg](#gustav-spangenberg)
 - [Hermann Dudley Murphy](#hermann-dudley-murphy)
 - [Hyacinthe Rigaud](#hyacinthe-rigaud)
 - [Johann Christian Dahl](#johann-christian-dahl)
@@ -224,12 +226,26 @@ The images provided in the download links (🖼️) are usually licensed for per
 - [Saint Elisabeth of Portugal](https://www.museodelprado.es/en/the-collection/art-work/saint-elisabeth-of-portugal/70f72f87-85dd-4923-8d05-e4d7940f8c0b) [🖼️](https://www.museodelprado.es/imagenes/Documentos/imgsem/70/70f7/70f72f87-85dd-4923-8d05-e4d7940f8c0b/bec96668-fe32-484e-8580-d035fbe8c51d.jpg)
 
 
+## Fritz von Uhde
+
+### [Alte Nationalgalerie](https://www.smb.museum/en/museums-institutions/alte-nationalgalerie/home.html)
+
+- [Little Heathland Princess](https://commons.wikimedia.org/wiki/File:Fritz_von_Uhde_Heideprinzesschen.jpg) [🖼️](https://upload.wikimedia.org/wikipedia/commons/e/e3/Fritz_von_Uhde_Heideprinzesschen.jpg)
+
+
 ## Gerard van Honthorst (Gherardo delle Notti)
 
 ### [Galleria degli Uffizi](https://www.uffizi.it/en)
 
 - [Adoration of the Child](https://artsandculture.google.com/asset/adoration-of-the-child/MwEXsJEagGGJdQ)
 - Supper with a lute player
+
+
+## Giuliano Bugiardini
+
+### [Galleria degli Uffizi](https://www.uffizi.it/en)
+
+- Madonna and Child (Madonna of the milk)
 
 
 ## Guido Reni
@@ -243,11 +259,11 @@ The images provided in the download links (🖼️) are usually licensed for per
 - [Hippomenes and Atalanta](https://www.museodelprado.es/en/the-collection/art-work/hippomenes-and-atalanta/b136eb8b-c3f1-4787-935b-0003ed114220)
 
 
-## Giuliano Bugiardini
+## Gustav Spangenberg
 
-### [Galleria degli Uffizi](https://www.uffizi.it/en)
+### [Alte Nationalgalerie](https://www.smb.museum/en/museums-institutions/alte-nationalgalerie/home.html)
 
-- Madonna and Child (Madonna of the milk)
+- [The Train of Death](https://commons.wikimedia.org/wiki/File:Gustav_Spangenberg_-_Der_Zug_des_Todes_(The_Train_of_Death)_-_1876.jpg) [🖼️](https://upload.wikimedia.org/wikipedia/commons/8/8c/Gustav_Spangenberg_-_Der_Zug_des_Todes_%28The_Train_of_Death%29_-_1876.jpg)
 
 
 ## Hermann Dudley Murphy
